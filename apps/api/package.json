@@ -23,7 +23,7 @@
     "@licio/lcap-p2p": "workspace:*",
     "@licio/ranking": "workspace:*",
     "@licio/shared": "workspace:*",
-    "@simplewebauthn/server": "^13.3.3",
+    "@simplewebauthn/server": "^14.0.0",
     "drizzle-orm": "^0.45.2",
     "hono": "^4.13.5",
     "ioredis": "^6.0.0",
